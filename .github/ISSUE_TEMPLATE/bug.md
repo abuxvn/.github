@@ -1,5 +1,5 @@
 ---
-name: 🐛 Bug report
+name: :beetle: Bug report
 about: Report an issue to help us improve
 title: ''
 labels: bug
@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-##  🐛 Bug
+##  :beetle: Bug
 
 Short & clear description of the bug
 
