@@ -12,5 +12,5 @@ assignees: ''
 Short & clear description of new release
 
 This release contains:
-- `package-name-1`: version
-- `package-name-2`: version
+- package-name-1: version
+- package-name-2: version
