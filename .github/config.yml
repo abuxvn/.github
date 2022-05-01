@@ -9,4 +9,4 @@ requestInfoDefaultTitles:
   - updates
   - update
 # *OPTIONAL* Label to be added to Issues and Pull Requests with insufficient information given
-requestInfoLabelToAdd: unclear
+requestInfoLabelToAdd: 'flag: unclear'
