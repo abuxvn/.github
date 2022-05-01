@@ -1,6 +1,6 @@
 ---
 name: 🚀 Epic
-about: Suggest an idea for this project
+about: Describe an epic
 title: ''
 labels: 'type: epic'
 assignees: ''
