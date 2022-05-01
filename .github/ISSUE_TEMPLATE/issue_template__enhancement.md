@@ -1,5 +1,5 @@
 ---
-name: 🚀 Feature request
+name: ✨ Feature Request
 about: Suggest an idea for this project
 title: ''
 labels: 'type: enhancement'
@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-## 🚀 Feature/enhancement
+## ✨ Feature/enhancement
 
 Short & clear description of the proposed solution/feature (the _How_)\*\*
 
