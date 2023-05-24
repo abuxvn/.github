@@ -8,5 +8,8 @@ requestInfoDefaultTitles:
   - update readme.md
   - updates
   - update
+  - fix
+  - feat
+  - feature
 # *OPTIONAL* Label to be added to Issues and Pull Requests with insufficient information given
-requestInfoLabelToAdd: 'flag: unclear'
+requestInfoLabelToAdd: 'flag:unclear'

@@ -1,7 +1,7 @@
 ---
 name: 📚 Documentation
 about: Are our docs missing or lacking? Do they need some attention that's big enough for its own ticket? Tell us more.
-labels: 'type: documentation'
+labels: 'type:doc'
 title: ''
 assignees: ''
 

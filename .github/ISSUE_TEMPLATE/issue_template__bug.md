@@ -2,7 +2,7 @@
 name: 🐞 Bug report
 about: Report an issue to help us improve
 title: ''
-labels: 'type: bug'
+labels: 'type:bug'
 assignees: ''
 
 ---

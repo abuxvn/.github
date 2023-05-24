@@ -2,7 +2,7 @@
 name: 📦 Release
 about: Create a new release
 title: ''
-labels: 'type: release'
+labels: 'type:release'
 assignees: ''
 
 ---
