@@ -15,9 +15,12 @@ Short & clear description of story and proposed solutions (the _How_)\*\*
 
 As a **[administrator/owner, visitor/end-user, devOps engineer]**, I want **[ability/function (the *What*)]** so that **[outcome (the *Why*)]**.
 
+### Epic Reference
+- (insert epic URL here)
+
 ### Acceptance Criteria
-- [] AC 1
-- [] AC 2
+- [ ] AC 1
+- [ ] AC 2
 
 ---
 
