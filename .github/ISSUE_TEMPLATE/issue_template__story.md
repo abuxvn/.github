@@ -1,25 +1,29 @@
 ---
-name: ✨ Feature Request
-about: Suggest an idea for this project
+name: ✨ User Story
+about: Define user stories for this project
 title: ''
-labels: 'type:enhancement'
+labels: 'type:story'
 assignees: ''
 
 ---
 
-## ✨ Feature/enhancement
+## ✨ User Story
 
-Short & clear description of the proposed solution/feature (the _How_)\*\*
+Short & clear description of story and proposed solutions (the _How_)\*\*
 
 ### Why build this feature?
 
 As a **[administrator/owner, visitor/end-user, devOps engineer]**, I want **[ability/function (the *What*)]** so that **[outcome (the *Why*)]**.
 
+### Acceptance Criteria
+- [] AC 1
+- [] AC 2
+
 ---
 
-### Optional: Screenshots
+### Optional: Screenshots / Wireframes
 
-- Images here (if any)
+- (insert image or URL here)
 
 ### Optional: Proposed implementation
 
