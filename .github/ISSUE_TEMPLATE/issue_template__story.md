@@ -33,8 +33,8 @@ As a **[administrator/owner, visitor/end-user, devOps engineer]**, I want **[abi
 - API spec, @mention people for feedback/discussion...
 
 Does this change impact:
-- [ ] Domain 1
-- [ ] Domain 2
+- Domain 1
+- Domain 2
 
 ### Optional: References
 
