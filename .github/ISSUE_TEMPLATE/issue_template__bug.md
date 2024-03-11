@@ -1,7 +1,7 @@
 ---
 name: 🐞 Bug report
 about: Report an issue to help us improve
-title: ''
+title: '🐞 '
 labels: 'type:bug'
 assignees: ''
 
